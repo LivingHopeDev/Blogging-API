@@ -9,7 +9,7 @@ import { all_Routes_function } from "./src/index.js";
 import { notFound } from "./src/middlewares/errors/notFound.js";
 // import { errorHandlerMiddleware } from "./src/middlewares/errors/errorHandler.js";
 import { job } from "./src/helper/cronJob.js";
-const port = process.env.PORT || 3001;
+const port = process.env.PORT;
 const app = express();
 // job.start();
 // let corsOptions = {
