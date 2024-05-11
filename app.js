@@ -1,7 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 dotenv.config();
-import { dbConnection } from "./src/config/Db.js";
+import { dbConnection } from "./src/config/db.js";
 import { logger } from "./src/logger/logger.js";
 import cors from "cors";
 import { httpLogger } from "./src/logger/httpLogger.js";
