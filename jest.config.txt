@@ -1,13 +1,14 @@
 export default {
+  preset: "ts-jest",
+
   testEnvironment: "node",
   transform: {},
   moduleNameMapper: {},
   // Enable support for ES6 modules
   // extensionsToTreatAsEsm: [".js"],
-  globals: {
-    "ts-jest": {
-      useESM: true,
-    },
-  },
+  // globals: {
+  //   "ts-jest": {
+  //     useESM: true,
+  //   },
+  // },
 };
-// awfpPQ5hHiluZZri;
