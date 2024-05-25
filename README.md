@@ -353,7 +353,3 @@ With this endpoint, each logged in user can view their created blog posts.
 - 500: Internal server error
 - 200: ok
 - 201: created a resource
-
-```
-
-```

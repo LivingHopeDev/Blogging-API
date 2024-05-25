@@ -10,7 +10,7 @@ import { notFound } from "./src/middlewares/errors/notFound.js";
 import { job } from "./src/helper/cronJob.js";
 const port = process.env.PORT;
 const app = express();
-job.start();
+// job.start();
 // let corsOptions = {
 //   origin: ["http://localhost:3000"],
 // };

@@ -292,3 +292,12 @@
 {"contentLength":"573","level":"info","message":"HTTP Access Log","method":"PATCH","responseTime":310.586,"status":200,"timeStamp":"Sun May 12 2024 01:13:30 GMT+0100 (West Africa Standard Time)","url":"/blog/663fa3db9c4266164e88b43e"}
 {"contentLength":"569","level":"info","message":"HTTP Access Log","method":"PATCH","responseTime":286.425,"status":200,"timeStamp":"Sun May 12 2024 01:13:39 GMT+0100 (West Africa Standard Time)","url":"/blog/663fa3db9c4266164e88b43e"}
 {"contentLength":"573","level":"info","message":"HTTP Access Log","method":"PATCH","responseTime":318.85,"status":200,"timeStamp":"Sun May 12 2024 01:13:45 GMT+0100 (West Africa Standard Time)","url":"/blog/663fa3db9c4266164e88b43e"}
+{"level":"info","message":"Server running on port 8000"}
+{"level":"info","message":"Server running on port 8000"}
+{"level":"info","message":"Server running on port 8000"}
+{"contentLength":"30","level":"info","message":"HTTP Access Log","method":"POST","responseTime":799.53,"status":406,"timeStamp":"Sun May 12 2024 14:26:49 GMT+0100 (West Africa Standard Time)","url":"/user/register"}
+{"contentLength":"26","level":"info","message":"HTTP Access Log","method":"POST","responseTime":160.952,"status":400,"timeStamp":"Sun May 12 2024 14:27:06 GMT+0100 (West Africa Standard Time)","url":"/user/register"}
+{"contentLength":"26","level":"info","message":"HTTP Access Log","method":"POST","responseTime":143.059,"status":400,"timeStamp":"Sun May 12 2024 14:27:12 GMT+0100 (West Africa Standard Time)","url":"/user/register"}
+{"contentLength":"308","level":"info","message":"HTTP Access Log","method":"POST","responseTime":713.421,"status":201,"timeStamp":"Sun May 12 2024 14:27:27 GMT+0100 (West Africa Standard Time)","url":"/user/register"}
+{"contentLength":"40","level":"info","message":"HTTP Access Log","method":"PATCH","responseTime":13.119,"status":403,"timeStamp":"Sun May 12 2024 15:24:46 GMT+0100 (West Africa Standard Time)","url":"/blog/663fa3db9c4266164e88b43e"}
+{"level":"info","message":"Server running on port 8000"}
